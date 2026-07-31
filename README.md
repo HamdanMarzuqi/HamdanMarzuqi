@@ -52,9 +52,11 @@
 **Agentic AI & Automation Perks**
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Automation-00FF9C?style=for-the-badge&logo=zapier&logoColor=black" />
+<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=F55036" />
+<img src="https://img.shields.io/badge/Antigravity%20IDE-1A1B27?style=for-the-badge&logo=googlegemini&logoColor=7DCFFF" />
+<img src="https://img.shields.io/badge/9Router-1A1B27?style=for-the-badge&logoColor=BB9AF7" />
+<img src="https://img.shields.io/badge/Hermes%20Agent-1A1B27?style=for-the-badge&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
 <br/>
 
