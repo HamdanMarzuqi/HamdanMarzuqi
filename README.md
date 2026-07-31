@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===== BOOT SCREEN ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:24283B,100:414868&height=200&section=header&text=HAMDAN%20MARZUQI&fontSize=48&fontColor=7DCFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Agentic%20AI%20Explorer&descAlignY=58&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:24283B,100:414868&height=200&section=header&text=HAMDAN%20AKBAR%20MARZUQI%2C%20S.KOM.&fontSize=36&fontColor=7DCFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Agentic%20AI%20Explorer&descAlignY=58&descAlign=50&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/HamdanMarzuqi">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=IT+Graduate+%7C+Web+Developer;Agentic+AI+%26+Automation+Enthusiast;Node.js+%E2%80%A2+React+%E2%80%A2+Python;%3E+STATUS%3A+Open+to+Opportunities_" alt="Typing SVG" />
